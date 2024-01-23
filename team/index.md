@@ -17,12 +17,12 @@ Douglas Pires, University of Melbourne
 Douglas Pires, University of Melbourne
 
 ## COSI Track Chair(s)
-Rafael Najmanovich, University of Montreal
+Rafael Najmanovich, University of Montreal \\
 Douglas Pires, University of Melbourne
 
 ## ISCBacademy COSI Program Coordinator
-Lam Su Datt, Universiti Kebangsaan Malaysia
-Stephen Yi, The university of Texas at Austin
+Lam Su Datt, Universiti Kebangsaan Malaysia \\
+Stephen Yi, The University of Texas at Austin
 
 {% include section.html %}
 
