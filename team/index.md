@@ -7,9 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## COSI Representative to Committee
+Rafael Najmanovich, University of Montreal
+
+## COSI Alternate Representative to Committee
+Douglas Pires, University of Melbourne
+
+## COSI Proceedings Liaison
+Douglas Pires, University of Melbourne
+
+## COSI Track Chair(s)
+Rafael Najmanovich, University of Montreal
+Douglas Pires, University of Melbourne
+
+## ISCBacademy COSI Program Coordinator
+Lam Su Datt, Universiti Kebangsaan Malaysia
+Stephen Yi, The university of Texas at Austin
 
 {% include section.html %}
 
@@ -18,9 +31,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.png" dark=false %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
