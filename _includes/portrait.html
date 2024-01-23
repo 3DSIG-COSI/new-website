@@ -36,6 +36,11 @@
             <span>{{ member.description | default: type.description }}</span>
           </span>
         {% endif %}
+        {% if member.role2 %}
+          <span class="portrait-role">
+            {% assign type = site.data.types[member.role2] %}
+          </span>
+        {% endif %}
       </span>
     {% endif %}
   </a>
