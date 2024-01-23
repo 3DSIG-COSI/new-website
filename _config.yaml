@@ -13,12 +13,12 @@ footer-dark: false
 
 # site social media and other links
 links:
-  email: contact@3DSIG-COSI.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: 3DSIG-COSI
-  twitter: 3DSIG-COSI
-  youtube: 3DSIG-COSI
+  email: 
+  orcid: 
+  google-scholar: 
+  github: 
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
